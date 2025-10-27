@@ -4,6 +4,8 @@
 This Power BI dashboard provides a complete overview of **policy, premium, and claim performance** across different categories and demographics for Resource Insurance Company.  
 It helps management and analysts understand how policies perform, which categories generate the most premiums, and how claims are distributed among customers.
 
+<img width="1282" height="732" alt="Image" src="https://github.com/user-attachments/assets/ab33c4a7-5f4a-404b-8f94-299eca9b86f6" />
+
 ---
 
 ## 🎯 Objectives — What This Dashboard Answers
@@ -27,15 +29,15 @@ It helps management and analysts understand how policies perform, which categori
 
 5. **Policy Claim Status**
    - What is the overall **status of policies claimed** — Rejected, Settled, or Pending?
-   - 📸 *Screenshot:* ![Policy Claim Status](images/screenshot_policy_claim_status.png)
+     <img width="432" height="305" alt="Image" src="https://github.com/user-attachments/assets/cd660660-adac-41a2-80e8-d9041182c6e9" />
 
 6. **Policy Status Distribution**
    - How many policies are **Active vs Inactive**?
-   - 📸 *Screenshot:* ![Policy Status](images/screenshot_policy_status.png)
+   - <img width="353" height="255" alt="Image" src="https://github.com/user-attachments/assets/c0ec5e4c-17be-4fb0-8b75-014c19123082" />
 
 7. **Claim Amount Summary by Policy Type**
    - How much claim amount is **Pending, Rejected, or Settled** under each policy type?
-   - 📸 *Screenshot:* ![Summary Table](images/screenshot_summary_table.png)
+     <img width="567" height="207" alt="Image" src="https://github.com/user-attachments/assets/ae8f61a7-6619-45b7-9ee1-a6673b0966ce" />
 
 ---
 
